@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[20/01/2026]`  
+**Datum:** `[21/01/2026]`  
 **Studentnaam:** `[Zonnedda Olivia]`  
 **Groepsnaam:** `[DRADO]`
 
@@ -10,8 +10,7 @@
 
 > **Activiteiten:**
 >
-> - camera functies toegevoegd + challenge pagina begonnen
-> - scrum gemaakt voor de week
+> - challenges page gemaakt + historiek + begonnen aan detail page
 
 ---
 
@@ -19,13 +18,13 @@
 
 > **Nieuwe skills:**
 >
-> - claude leren gebruiken
-
----
+> - DIAGRAMMEN MAKEN IN HTML /CSS
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 > **Algmeeen gevoel:**
 >
-> - **"koud"** :☃️:
-> - **"moe"** :😴🛏️:
+> - **"weeral koud"** :☃️:
+> - **"Gefrustreerd"** :🙄😐:
+
+---
