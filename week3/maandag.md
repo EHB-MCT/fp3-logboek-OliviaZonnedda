@@ -9,7 +9,7 @@
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
 
 > **Activiteiten:**
->
+
 > - sprint planning gemaakt
 > - Camera design en functies gefixt
 > - Database gemaakt
